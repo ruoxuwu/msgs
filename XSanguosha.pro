@@ -54,6 +54,8 @@ SOURCES += src/main.cpp \
         src/package/wisdompackage.cpp \
 	src/package/yitianpackage.cpp \
 	src/package/yjcm-package.cpp \
+        src/package/thunderpackage.cpp \
+        src/package/shadowpackage.cpp \
 	src/scenario/boss-mode-scenario.cpp \
 	src/scenario/challengemode.cpp \
 	src/scenario/couple-scenario.cpp \
@@ -133,6 +135,8 @@ HEADERS += src/client/aux-skills.h \
         src/package/wisdompackage.h \
 	src/package/yitianpackage.h \
 	src/package/yjcm-package.h \
+        src/package/thunderpackage.h \
+        src/package/shadowpackage.h \
 	src/scenario/boss-mode-scenario.h \
 	src/scenario/challengemode.h \
 	src/scenario/couple-scenario.h \
